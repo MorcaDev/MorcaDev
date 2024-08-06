@@ -22,7 +22,7 @@
 <a href="https://github.com/MorcaDev/TrustCare" target="_blank"><img src="https://raw.githubusercontent.com/MorcaDev/TrustCare/master/Demos/banner.png" width="400" alt="Clinic Web System"></a>
 <p>
 <a href="https://github.com/MorcaDev/TrustCare" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://morcadev.github.io/TrustCare" target="_blank">
 <img src="https://img.shields.io/badge/-WEB-green?style=for-the-badge&color=fbfc40">
@@ -38,7 +38,7 @@
 <a href="https://github.com/MorcaDev/MovieRecommender" target="_blank"><img src="https://github.com/MorcaDev/MovieRecommender/blob/master/Assets/banner.png" width="400" alt="Clinic System Based on Web"></a>
 <p>
 <a href="https://github.com/MorcaDev/MovieRecommender" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/-WEB-green?style=for-the-badge&color=fbfc40">
@@ -60,7 +60,7 @@
 <a href="https://github.com/MorcaDev/BataBit" target="_blank"><img src="https://github.com/MorcaDev/BataBit/blob/master/Assets/banner.png" width="400" alt="Criptocurrency lading page"></a>
 <p>
 <a href="https://github.com/MorcaDev/BataBit" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://morcadev.github.io/BataBit" target="_blank">
 <img src="https://img.shields.io/badge/-WEB-green?style=for-the-badge&color=fbfc40">
