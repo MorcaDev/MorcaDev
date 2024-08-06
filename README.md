@@ -5,10 +5,10 @@
 <br/>
 
 ## About me
-📢 I am a passionate programmer and a student of 👨‍💻 Informatics Engineering. I am currently specializing in Web development 🌐; however, I always maintain a focus on constant learning of new topics and technologies for a comprehensive development at a professional and personal level 🦾. 
-- 🌐 Web-Development
-- 🤖 AI-Algorithms
-- 🕶️ Vr-Ar Experiences.
+📢 I am a passionate programmer and a student of Informatics Engineering who always maintain a focus on constant learning of new topics and technologies for a comprehensive development at a professional and personal level 🦾. 
+- 🌐 Web Development
+- 🤖 AI Algorithms
+- 🕶️ Vr/Ar Experiences.
 
 <br/>
 
