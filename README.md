@@ -70,6 +70,22 @@
 </div>                                                                                  
 </td>
 
+<td width="50%">
+<h3 align="center">VR/AR Album</h3>
+<div align="center">
+<a href="https://github.com/MorcaDev/UNFV-Album" target="_blank"><img src="https://github.com/MorcaDev/UNFV-Album/blob/master/Demos/banner.png" width="400" alt="Criptocurrency lading page"></a>
+<p>
+<a href="https://github.com/MorcaDev/UNFV-Album" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://unfv-album.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-WEB-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>🥽 The UNFV Album provides a VR + AR immersive experience, in which you will know all about the UNFV 🎓.</p>
+</div>                                                                                  
+</td>
+
 </tr>
 
 </table> 
